@@ -1,0 +1,27 @@
+
+*.pyc
+__pycache__/
+
+# Virtual Environment
+.env
+.venv/
+
+# Database Files
+db.sqlite3
+
+# Log Files
+*.log
+
+# Editor/IDE Specific Files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Sensitive Information/Local Settings
+local_settings.py
+
+# Testing/Build Artifacts
+.coverage
+.tox/
+.eggs/
